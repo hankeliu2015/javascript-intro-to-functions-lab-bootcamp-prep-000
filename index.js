@@ -15,7 +15,8 @@ function logWhisper(string) {
 }
 
 swtich (string) {
-  case string === string.toLowerCase()
+  case string === string.toLowerCase():
+    console.log("I can\'t hear you!")
 }
 // function sayHiToGrandma(string) {
 
