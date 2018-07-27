@@ -24,6 +24,8 @@ switch (string) {
      case string === "I love you, Grandma":
       console.log("I love you, too");
       break;
+      default:
+      return "";
      }
 
 
