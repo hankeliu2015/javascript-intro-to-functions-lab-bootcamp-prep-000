@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 swtich (string) {
-  
+  case 
 }
 // function sayHiToGrandma(string) {
 
