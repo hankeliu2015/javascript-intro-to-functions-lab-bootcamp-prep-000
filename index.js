@@ -25,7 +25,7 @@ switch (string) {
       console.log("I love you, too");
       break;
       default:
-      
+      console.log("unknown")
      }
 
 
