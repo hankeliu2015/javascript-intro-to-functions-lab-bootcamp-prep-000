@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 swtich (string) {
-  case 
+  case string === string.toLowerCase()
 }
 // function sayHiToGrandma(string) {
 
