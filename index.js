@@ -17,15 +17,14 @@ function logWhisper(string) {
 switch (string) {
   case string === string.toLowerCase():
     console.log("I can\'t hear you!");
-    break
+    break;
    case string === string.toUpperCase():
      console.log("YES INDEED!");
-     break
+     break;
      case string === "I love you, Grandma":
       console.log("I love you, too");
-      break
-     
-}
+      break;
+     }
 
 
 // function sayHiToGrandma(string) {
